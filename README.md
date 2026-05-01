@@ -1,5 +1,4 @@
 # CODECRAFT_CS_05
-network packet analyzer
 ---
 
 # Python Network Packet Analyzer
