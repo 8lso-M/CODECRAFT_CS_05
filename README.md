@@ -1,7 +1,5 @@
 # CODECRAFT_CS_05
 network packet analyzer
-To make your project look professional on GitHub, you should include a well-structured `README.md`. Below is a template you can copy, paste, and customize for your repository.
-
 ---
 
 # Python Network Packet Analyzer
